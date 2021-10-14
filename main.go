@@ -14,7 +14,8 @@ import (
 	. "github.com/mlabouardy/komiser/handlers/gcp"
 	. "github.com/mlabouardy/komiser/handlers/ovh"
 	. "github.com/mlabouardy/komiser/services/cache"
-	. "github.com/mlabouardy/komiser/services/ini"
+
+	//. "github.com/mlabouardy/komiser/services/ini"
 	"github.com/urfave/cli"
 )
 
